@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\BAHASA PEMROGRAMAN\\C#\\Project\\TaskManagementApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BAHASA PEMROGRAMAN\\C#\\Project\\TaskManagementApi\\TaskManagementApi\\DTOs\\TaskDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskManagementApi\\DTOs\\TaskDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BAHASA PEMROGRAMAN\\C#\\Project\\TaskManagementApi\\TaskManagementApi\\Models\\TaskItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskManagementApi\\Models\\TaskItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BAHASA PEMROGRAMAN\\C#\\Project\\TaskManagementApi\\TaskManagementApi\\DTOs\\AuthDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskManagementApi\\DTOs\\AuthDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8AFDF02E-CF18-4459-D717-8AF5E39FEEB0}|TaskManagementApi\\TaskManagementApi.csproj|d:\\bahasa pemrograman\\c#\\project\\taskmanagementapi\\taskmanagementapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFDF02E-CF18-4459-D717-8AF5E39FEEB0}|TaskManagementApi\\TaskManagementApi.csproj|solutionrelative:taskmanagementapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,49 +29,25 @@
               "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TaskItem.cs",
-              "DocumentMoniker": "D:\\BAHASA PEMROGRAMAN\\C#\\Project\\TaskManagementApi\\TaskManagementApi\\Models\\TaskItem.cs",
-              "RelativeDocumentMoniker": "TaskManagementApi\\Models\\TaskItem.cs",
-              "ToolTip": "D:\\BAHASA PEMROGRAMAN\\C#\\Project\\TaskManagementApi\\TaskManagementApi\\Models\\TaskItem.cs",
-              "RelativeToolTip": "TaskManagementApi\\Models\\TaskItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T07:53:33.532Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TaskDTO.cs",
-              "DocumentMoniker": "D:\\BAHASA PEMROGRAMAN\\C#\\Project\\TaskManagementApi\\TaskManagementApi\\DTOs\\TaskDTO.cs",
-              "RelativeDocumentMoniker": "TaskManagementApi\\DTOs\\TaskDTO.cs",
-              "ToolTip": "D:\\BAHASA PEMROGRAMAN\\C#\\Project\\TaskManagementApi\\TaskManagementApi\\DTOs\\TaskDTO.cs",
-              "RelativeToolTip": "TaskManagementApi\\DTOs\\TaskDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T07:50:44.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthDTO.cs",
-              "DocumentMoniker": "D:\\BAHASA PEMROGRAMAN\\C#\\Project\\TaskManagementApi\\TaskManagementApi\\DTOs\\AuthDTO.cs",
-              "RelativeDocumentMoniker": "TaskManagementApi\\DTOs\\AuthDTO.cs",
-              "ToolTip": "D:\\BAHASA PEMROGRAMAN\\C#\\Project\\TaskManagementApi\\TaskManagementApi\\DTOs\\AuthDTO.cs",
-              "RelativeToolTip": "TaskManagementApi\\DTOs\\AuthDTO.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBMAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T07:40:11.805Z"
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "D:\\BAHASA PEMROGRAMAN\\C#\\Project\\TaskManagementApi\\TaskManagementApi\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "TaskManagementApi\\Data\\AppDBContext.cs",
+              "ToolTip": "D:\\BAHASA PEMROGRAMAN\\C#\\Project\\TaskManagementApi\\TaskManagementApi\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "TaskManagementApi\\Data\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T08:20:41.377Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
